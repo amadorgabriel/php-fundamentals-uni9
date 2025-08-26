@@ -4,16 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programação Back-End - PHP</title>
+    <title>Document</title>
 </head>
 
 <body>
-    <h1>Index</h1>
+    <h1>Class 01</h1>
 
     <h4><b>Sumário</b></h4>
     <ol>
         <li>
-            <a href="/class-01.php">Class 01</a>
+            <a href="/index.php">Index</a>
         </li>
         <li>
             <a href="/class-02.php">Class 02</a>
