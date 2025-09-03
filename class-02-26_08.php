@@ -8,17 +8,17 @@
 </head>
 
 <body>
-    <h1>Class 01</h1>
-
+    <h1>Class 02</h1>
     <h4><b>Sumário</b></h4>
     <ol>
         <li>
             <a href="/index.php">Index</a>
         </li>
-        <li>
-            <a href="/class-02.php">Class 02</a>
-        </li>
     </ol>
+
+    <?php
+    phpinfo()
+    ?>
 </body>
 
 </html>

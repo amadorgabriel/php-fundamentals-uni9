@@ -11,14 +11,15 @@
     <h1>Index</h1>
 
     <h4><b>Sumário</b></h4>
-    <ol>
-        <li>
-            <a href="/class-01.php">Class 01</a>
-        </li>
-        <li>
-            <a href="/class-02.php">Class 02</a>
-        </li>
-    </ol>
+    <dl>
+        <dt>26/08</dt>
+        <dd><a href="/class-01-26_08.php">Class 01</a></dd>
+        <dd><a href="/class-02-26_08.php">Class 02</a></dd>
+
+        <dt>02/09</dt>
+        <dd><a href="/class-03-02_09.php">Class 03</a></dd>
+        <dd><a href="/class-04-02_09.php">Class 04</a></dd>
+    </dl>
 </body>
 
 </html>
