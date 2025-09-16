@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Class 06 pt. 1 - 16_09</title>
 </head>
 
 <body>
-    <h1>Class 04</h1>
+    <h1>Class 06</h1>
     <h4><b>Sumário</b></h4>
     <ol>
         <li>
@@ -16,19 +16,7 @@
         </li>
     </ol>
 
-    <?php
-    define('ESTUDANTE', 'Bete');
-    $av1 = 8.5;
-    $av2 = 9;
 
-
-    // Mostrar:
-    // Estudante: Bete
-    // Av1: 8.5
-    // Av2: 9
-    // Média: 8.75
-
-    ?>
 </body>
 
 </html>
