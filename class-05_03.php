@@ -23,6 +23,7 @@
         Av2 <input type="text" name="av2"><br>
         <input type="submit" value="Calcular">
     </form>
+
     <?php
     if (count($_POST) == 0) exit;
     $nome = $_POST["nome"];

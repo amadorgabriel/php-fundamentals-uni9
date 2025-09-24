@@ -16,11 +16,10 @@
         </li>
     </ol>
 
-   <form method="post" action="aula05_02.php">
+   <form method="post" action="class-05_02.php">
         Nome <input type="text" name="nome"><br>
         Senha <input type="password" name="senha"><br>
         <input type="submit" value="Enviar!">
-
     </form>
 </body>
 
